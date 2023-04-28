@@ -9,7 +9,7 @@ https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
 
 ## 中文指南
 
-https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+https://github.com/oscar15977/ChatGPT-question-zh
 
 ## GPT生成
 
